@@ -74,6 +74,14 @@ p{
 #img2:hover{
     transform: scale(0.9)
 }
+#img3{
+    height: 250px;
+    width: 250px;
+    transition: transform .2s;
+}
+#img3:hover{
+    transform: scale(0.9)
+}
 html{
     scroll-behavior: smooth;
 }
